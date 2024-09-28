@@ -5,11 +5,10 @@ Welcome to the **Cybersecurity Jupyter Notebooks Showcase**! This repository con
 ## Notebooks
 
 ### 1. Network Scanning with Nmap
-- [Nmap Network Scan Visualization](nmap/nmap_network_scan_visualization.ipynb): Learn how to visualize Nmap scan data using Python libraries like Pandas and Seaborn.
+- [Nmap Scan Analysis](nmap/nmap_network_scan_visualization.ipynb): A tutorial on how to perform a full network scan using Nmap and analyze the raw results (e.g., open ports, services).
 
-### 2. Vulnerability Analysis with Nmap and Vulners
-- [Nmap + Vulners Vulnerability Scan](vulnerability-analysis/vulnerability_analysis_nmap_vulners.ipynb): A guide to performing vulnerability analysis by combining Nmap with the Vulners API. Generate detailed vulnerability reports, including CVSS scores and severity levels.
-- [Visualizing Vulnerabilities](nmap/nmap_network_scan_visualization.ipynb): Visualize vulnerability data, including severity levels and the distribution of CVSS scores, using Python libraries like Matplotlib and Seaborn.
+### 2. Visualizing Vulnerabilities
+- [Visualizing Vulnerabilities](vulnerability-analysis/vulnerability_analysis_nmap_vulners.ipynb): Visualize vulnerability data, including severity levels and the distribution of CVSS scores, after scanning with Nmap and querying vulnerabilities with the Vulners API.
 
 ## Installation
 
