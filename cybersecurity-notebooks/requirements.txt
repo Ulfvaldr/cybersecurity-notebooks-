@@ -1,0 +1,6 @@
+nmap
+pandas
+matplotlib
+seaborn
+jupyter
+ipywidgets
